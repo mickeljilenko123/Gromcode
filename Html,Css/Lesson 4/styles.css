@@ -1,0 +1,22 @@
+p {
+    color: green;
+}
+
+li {
+    color: orange;
+}
+
+main {
+    font-size: 24px;
+}
+
+div {
+    display: inline-block;
+}
+
+span {
+    height: 100px;
+    width: 200px;
+    background-color: yellow;
+    display: block;
+}
